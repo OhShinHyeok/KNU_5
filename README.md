@@ -3,7 +3,7 @@
 ### 오신혁
 > UNRANKED
 ```Mid
-![image](https://user-images.githubusercontent.com/29362112/45809596-85138280-bd03-11e8-97bd-3a4608839f6f.png)
+<img src="https://user-images.githubusercontent.com/29362112/45809596-85138280-bd03-11e8-97bd-3a4608839f6f.png">
 주 챔피언: 트위스티드 페이트
 플레이 기간: 2~5시즌
 ```
