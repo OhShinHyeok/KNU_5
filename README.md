@@ -10,8 +10,9 @@
 플레이 기간: 2~5시즌
 ```
 ### 심호용
-<div><img width="300" src="https://user-images.githubusercontent.com/30406758/45810244-2949f900-bd05-11e8-9b75-bfc84994df3a.jpg"></div>
 > GOLD
+<div><img width="300" src="https://user-images.githubusercontent.com/30406758/45810244-2949f900-bd05-11e8-9b75-bfc84994df3a.jpg"></div>
+
 ```Top
 정신건강을위해 요양중
 시즌2부터 만년골드
