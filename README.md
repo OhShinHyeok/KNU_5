@@ -30,7 +30,7 @@
 
 ### 김홍진
 > UNRANKED
-<div><img width="300" src="https://user-images.githubusercontent.com/30318269/45811131-4384d680-bd07-11e8-8f05-d9d77e7705f2.jpg"></div>
+<div><img width="300" src="https://user-images.githubusercontent.com/30318269/45811395-ea697280-bd07-11e8-9438-b9aef3d0ae6d.jpg"></div>
 
 ```AD Carry
 주 챔피언 : 이즈리얼, 케이틀린
