@@ -20,7 +20,7 @@
 ```
 ### 신주환
 > PLATINUM
-<div><img width="300" src="https://user-images.githubusercontent.com/30406758/45810471-95c4f800-bd05-11e8-9fb9-176d62b1cc4b.png></div>
+<div><img width="300" src="https://user-images.githubusercontent.com/30406758/45810471-95c4f800-bd05-11e8-9fb9-176d62b1cc4b.png"></div>
   
 ```Bottom, mid
 주 챔피언 : 진, 초가스, 베이가
